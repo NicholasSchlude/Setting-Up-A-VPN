@@ -1,4 +1,4 @@
-# Setting-Up-A-VPN
+# Configuring-A-VPN
 Below will outline the steps I took to make and use a VPN
 
 <b> <h2> Environments, Software and OS used</h2>
